@@ -1,6 +1,6 @@
 ﻿namespace Taxi_The_App
 {
-    partial class Form4
+    partial class DriversMainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // DriversMainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(952, 540);
+            this.Name = "DriversMainForm";
             this.Text = "Form4";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Taxi_The_App
 {
-    public partial class Form3 : Form
+    public partial class UsersMainForm : Form
     {
-        public Form3()
+        public UsersMainForm()
         {
             InitializeComponent();
+        }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Taxi_The_App
 {
-    partial class Form1
+    partial class OrderForm
     {
         /// <summary>
         /// Required designer variable.

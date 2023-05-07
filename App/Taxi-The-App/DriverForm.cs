@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Taxi_The_App
 {
-    public partial class Form2 : Form
+    public partial class DriverForm : Form
     {
-        public Form2()
+        public DriverForm()
         {
             InitializeComponent();
         }
